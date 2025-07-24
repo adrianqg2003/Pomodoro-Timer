@@ -7,4 +7,3 @@ from pomodoro.ui import PomodoroWindow
 
 def main():
     app = QApplication(sys.argv)
-    
